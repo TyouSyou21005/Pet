@@ -1,0 +1,25 @@
+{
+  "name": "web2023-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "netlify functions:serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^17.10.1",
+    "vite": "^5.0.10"
+  },
+  "description": "",
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@arco-design/web-react": "^2.59.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "antd": "^5.12.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Ageo",
+			"country": {
+				"code": "JP",
+				"name": "Japan"
+			},
+			"subdivision": {
+				"code": "11",
+				"name": "Saitama"
+			},
+			"timezone": "Asia/Tokyo",
+			"latitude": 35.9767,
+			"longitude": 139.5892
+		},
+		"timestamp": 1706078580443
+	}
+}
